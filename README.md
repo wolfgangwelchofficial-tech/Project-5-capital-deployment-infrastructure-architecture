@@ -21,6 +21,29 @@ This project demonstrates:
 
 ---
 
+## Visual Architecture Overview
+
+### 1) Capital Compression Under Regulatory Drag
+![Capital Compression Timeline](visuals/capital-compression-timeline.png)
+
+**Why it matters:** This illustrates how front-loaded capital deployment, fixed monthly burn, and regulatory delay created liquidity compression—making activation timing the decisive control variable.
+
+---
+
+### 2) Closed-Loop Operational Governance Architecture
+![Integrated Operating Stack](visuals/integrated-operating-stack.png)
+
+**Why it matters:** This shows the operating stack as an integrated system (revenue → inventory → labor → payroll + CRM), enforced through a weekly governance cadence to eliminate guessing and prevent leakage.
+
+---
+
+### 3) Activation Timing as Capital Control Variable
+![Activation Timing Model](visuals/activation-timing-model.png)
+
+**Why it matters:** This shows the sequencing doctrine: infrastructure is built before revenue, but operational ramp is delayed until regulatory certainty—while demand is built in parallel.
+
+---
+
 ## Capital Deployment Philosophy
 
 Capital must be deployed in layers.
