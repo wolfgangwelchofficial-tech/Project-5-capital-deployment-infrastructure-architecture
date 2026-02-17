@@ -1,5 +1,7 @@
 # Pre-Opening Revenue Activation Under Capital Compression
 
+> **Reference Visual:** [Activation Timing Model](../visuals/activation-timing-model.png)
+
 Marketing was not an aesthetic exercise.
 
 It was a timing lever under liquidity pressure.
