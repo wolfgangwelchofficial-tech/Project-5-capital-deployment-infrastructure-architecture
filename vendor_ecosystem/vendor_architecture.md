@@ -1,36 +1,75 @@
-# Vendor Ecosystem Architecture
+# Vendor Ecosystem Architecture Under Liquidity Constraint
 
-Vendor relationships were structured as an integrated operating ecosystem.
+Vendor relationships were not simply procurement decisions.
 
-Objective: Prevent fragmented procurement and contract misalignment.
-
----
-
-## Vendor Categories
-
-- POS Lease Provider
-- Sound & Lighting Equipment
-- Soda Distributor
-- Liquor Supplier
-- Consumable & Reusable Product Suppliers
+They were capital exposure commitments activated before revenue certainty.
 
 ---
 
-## Design Principles
+## Infrastructure Vendors (Pre-Revenue Commitment)
 
-1. Avoid overlapping contract redundancies.
-2. Negotiate scalable terms.
-3. Align vendor cadence with projected revenue flow.
-4. Prevent long-term lock-in under uncertain stabilization.
+Contracts activated prior to launch:
+
+- POS Lease ($1,200/month)
+- Sound & Lighting Lease ($2,500/month)
+
+These contracts began generating burn before regulatory approval.
+
+They were required to complete infrastructure readiness.
+
+Deferring activation was not viable without delaying remodel completion.
 
 ---
 
-## Strategic Leverage
+## Operational Vendors (Staggered Activation)
 
-Vendor sequencing was staggered:
+Vendors intentionally delayed until regulatory clearance:
 
-- Infrastructure vendors secured during remodel.
-- Inventory vendors activated near regulatory clearance.
-- Liquidity-sensitive contracts delayed until approval certainty.
+- Liquor suppliers
+- Soda distributors
+- Consumable product vendors
+- Inventory acquisition
 
-Vendor architecture supported capital preservation.
+Inventory purchase was compressed into final approval window to prevent dead capital lock-up.
+
+---
+
+## Contract Structure Philosophy
+
+Because payments were made in cash:
+
+- No deferred payment leverage.
+- No credit-based runway extension.
+- No vendor financing safety net.
+
+Vendor architecture required sequencing discipline.
+
+Infrastructure was committed.
+Operational vendors were staged.
+
+---
+
+## Exposure Mapping
+
+Pre-clearance exposure included:
+
+- Fixed lease burn
+- Equipment lease burn
+- Insurance
+- Utilities
+- Marketing (June onward)
+
+Operational activation was delayed to prevent compounding exposure.
+
+---
+
+## Strategic Insight
+
+Vendor architecture is rarely discussed in capital deployment.
+
+But under regulatory drag, vendor timing becomes a survival lever.
+
+Infrastructure must be ready.
+Inventory must wait.
+
+This sequencing preserved final activation liquidity.
