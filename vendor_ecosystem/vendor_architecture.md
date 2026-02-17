@@ -1,5 +1,7 @@
 # Vendor Ecosystem Architecture Under Liquidity Constraint
 
+> **Reference Visual:** [Capital Compression Timeline](../visuals/capital-compression-timeline.png)
+
 Vendor relationships were not simply procurement decisions.
 
 They were capital exposure commitments activated before revenue certainty.
