@@ -1,5 +1,7 @@
 # Regulatory Drag & Approval Ambiguity Model
 
+> **Reference Visual:** [Capital Compression Timeline](../visuals/capital-compression-timeline.png)
+
 Construction readiness was achieved by Month 3.
 
 Revenue was expected to begin March 15.
