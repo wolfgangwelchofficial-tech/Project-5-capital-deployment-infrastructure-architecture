@@ -1,5 +1,7 @@
 # Capital Compression & Deployment Architecture
 
+> **Reference Visual:** [Capital Compression Timeline](../visuals/capital-compression-timeline.png)
+
 Total Self-Funded Capital: $500,000  
 Remodel Deployment: ~$300,000 (sunk prior to expected opening)  
 Expected Opening: March 15  
