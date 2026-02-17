@@ -1,41 +1,89 @@
-# Licensing & Regulatory Sequence Map
+# Regulatory Drag & Approval Ambiguity Model
 
-Operations were construction-ready at month three.
+Construction readiness was achieved by Month 3.
 
-Regulatory clearance extended timeline to month eight.
+Revenue was expected to begin March 15.
 
----
+Regulatory clearance extended to September 28.
 
-## Regulatory Dependencies
+The delay was not a defined extension.
 
-1. City Business License
-2. Alcohol Licensing Approval
-3. Fire Marshal Inspection
-4. Building Inspection Sign-off
-5. Conditional Operating Clearance
-
-Each stage required sequential validation.
-
-Failure at any stage delayed launch authorization.
+It was iterative ambiguity.
 
 ---
 
-## Bottleneck Analysis
+## Approval Dependency Chain
 
-Primary friction points:
+Launch required sequential clearance across:
 
-- Inspection scheduling latency
-- Documentation review cycles
-- Conditional compliance adjustments
-- Cross-departmental approval coordination
+- City Business Licensing
+- Alcohol Licensing Approval
+- Fire Marshal Inspection
+- Building Inspection Sign-Off
+- Conditional Operating Clearance
+
+Each approval depended on prior validation.
+
+Failure or revision at any stage reset inspection cadence.
 
 ---
 
-## Risk Mitigation
+## Ambiguity Profile
 
-To preserve capital during delay:
+Approval sequencing was not linear.
 
-- Working capital buffer maintained
-- Vendor onboarding staggered
-- Payroll ramp delayed until conditional approval clarity
-- Marketing executed without fixed opening date commitment
+Feedback cycles included:
+
+- Conditional adjustments
+- Re-submission requirements
+- Documentation clarification requests
+- Scheduling latency across departments
+
+Timelines shifted without firm forward certainty.
+
+Revenue activation remained suspended during uncertainty.
+
+---
+
+## Regulatory-Induced Capital Exposure
+
+By Month 4, construction was complete.
+
+However:
+
+- Lease burn continued.
+- Equipment leases were active.
+- Insurance remained live.
+- Founder income paused.
+- Marketing ramp began.
+
+Each month of regulatory ambiguity compounded fixed exposure.
+
+---
+
+## Operational Freeze Decision
+
+Rather than hiring early under approval uncertainty:
+
+- Payroll ramp was held.
+- Inventory acquisition paused.
+- Staffing offers delayed.
+- Training postponed.
+
+Activation was intentionally compressed into final 30-day window after approval confirmation.
+
+This prevented liquidity collapse under ambiguous clearance timing.
+
+---
+
+## Strategic Insight
+
+Regulatory drag is not operational incompetence.
+
+It is structural latency.
+
+The decision was not to panic-expand under uncertainty.
+
+The decision was to absorb drag and activate only once certainty crossed threshold.
+
+This converted ambiguity risk into controlled timing.
